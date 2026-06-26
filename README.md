@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I work in paid media @ T/S and do a little vibe coding on the side mostly internal tools and random experiments. Lately that means stitching together AI tools and APIs to automate things. Pushing a few out here for other adops folks.
+I work in paid media @ T/S and do a little vibe coding on the side mostly internal tools and random experiments. Lately that means stitching together AI tools and APIs to automate things. Sharing a few here for the martech crowd.
 
 ---
 
