@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**vctgz/vctgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in paid media @ T/S and do a little vibe coding on the side mostly internal tools and random experiments. Lately that means stitching together AI tools and APIs to automate things. Pushing a few out here for other adops folks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<img height="165" alt="vctgz's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vctgz&theme=vue&show_icons=true&hide_border=true&count_private=true" />
+<img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vctgz&theme=vue&show_icons=true&hide_border=true&layout=compact" />
+
+<br />
+
+<img alt="vctgz's streak" src="https://streak-stats.demolab.com/?user=vctgz&theme=vue&hide_border=true" />
+
+</div>
